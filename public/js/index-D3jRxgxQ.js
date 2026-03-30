@@ -1,4 +1,4 @@
-function EC(){const{pathname:e}=hr();return y.useEffect(()=>{window.scrollTo(0,0)},[e]),null}const ft="/api",Hg={},CC=()=>null;
+const ft="/api",Hg={},CC=()=>null;
 let Mr=null,To=null,oa=0;const WC=6e4;async function Gg(){return hu;}
 function KC(){}
 // PHP/remote API heartbeat and pixel tracking logic removed for static hosting compatibility
